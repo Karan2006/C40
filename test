@@ -1,0 +1,18 @@
+<script src = "https://www.gstatic.com/firebasejs/8.7.1/firebase-app.js" ></script>
+  <script src="https://www.gstatic.com/firebasejs/8.7.1/firebase-database.js"></script>
+
+  
+  <script>
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+      apiKey: "AIzaSyBmWsBroS1f4BYNwbbTMxFp-E48LpZumPE",
+      authDomain: "ball-game-59bbc.firebaseapp.com",
+      databaseURL: "https://ball-game-59bbc-default-rtdb.firebaseio.com",
+      projectId: "ball-game-59bbc",
+      storageBucket: "ball-game-59bbc.appspot.com",
+      messagingSenderId: "474397622389",
+      appId: "1:474397622389:web:d5521387b6a0f3fde1783c"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+  </script>
